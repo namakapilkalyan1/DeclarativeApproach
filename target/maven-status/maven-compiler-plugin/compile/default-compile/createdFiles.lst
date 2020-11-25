@@ -1,0 +1,13 @@
+com\techgeeknext\service\impl\NotesServiceImpl.class
+com\techgeeknext\TransactionManagementApplication.class
+com\techgeeknext\service\UserService.class
+com\techgeeknext\modal\NoteBase.class
+com\techgeeknext\repository\NotesRepository.class
+com\techgeeknext\service\NotesService.class
+com\techgeeknext\modal\User.class
+com\techgeeknext\service\UserNotesLinkService.class
+com\techgeeknext\service\impl\UserServiceImpl.class
+com\techgeeknext\modal\Notes.class
+com\techgeeknext\util\ApplicationConstants.class
+com\techgeeknext\repository\UserRepository.class
+com\techgeeknext\service\impl\UserNotesLinkServiceImpl.class
